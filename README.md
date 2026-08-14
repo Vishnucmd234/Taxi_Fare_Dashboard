@@ -13,7 +13,7 @@ This dashboard tracks ride bookings for a multi-vehicle taxi/mobility platform (
 
 ![Home Page](image/HOME.png)
 ![Overall Page](image/OVERALL.png)
-![Vehicle Type Page](VAHICAL.png)
+![Vehicle Type Page](image/VAHICAL.png)
 ![Cancellation Page](image/CANCELLATION.png)
 ![Rating Page](image/RATING.png)
 ![Summary Page](image/SUMMARY.png)
