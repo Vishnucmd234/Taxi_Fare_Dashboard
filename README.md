@@ -1,8 +1,8 @@
 # Taxi Fare Dashboard — Analysis Report
 
-**Project:** Taxi Fare Dashboard
-**Tool:** Power BI
-**Pages:** Overall | Vehicle Type | Cancellation | Rating | Summary
+**Project:** Taxi Fare Dashboard /n
+**Tool:** Power BI/n
+**Pages:** Overall | Vehicle Type | Cancellation | Rating | Summary /n
 
 ---
 
