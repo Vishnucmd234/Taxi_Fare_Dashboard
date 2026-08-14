@@ -2,7 +2,6 @@
 
 **Project:** Taxi Fare Dashboard
 **Tool:** Power BI
-**Repo:** [github.com/Vishnucmd234/Taxi_Fare_Dashboard](https://github.com/Vishnucmd234/Taxi_Fare_Dashboard/tree/main)
 **Pages:** Overall | Vehicle Type | Cancellation | Rating | Summary
 
 ---
@@ -10,14 +9,6 @@
 ## 1. Overview
 
 This dashboard tracks ride bookings for a multi-vehicle taxi/mobility platform (Auto, Bike, eBike, Go Mini, Go Sedan, Premier Sedan, Uber XL) across January–May 2024. It's built as a Six-page interactive report covering booking volume and status, vehicle-level performance, cancellation behavior, customerordriver ratings, and a revenueorKPI summary.
-
-![Home Page](image/HOME.png)
-![Overall Page](image/OVERALL.png)
-![Vehicle Type Page](image/VAHICAL.png)
-![Cancellation Page](image/CANCELLATION.png)
-![Rating Page](image/RATING.png)
-![Summary Page](image/SUMMARY.png)
-
 
 
 ##2. Page-by-Page Breakdown
