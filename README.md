@@ -9,9 +9,10 @@
 ## 1. Overview
 
 This dashboard tracks ride bookings for a multi-vehicle taxi/mobility platform (Auto, Bike, eBike, Go Mini, Go Sedan, Premier Sedan, Uber XL) across January–May 2024. It's built as a Six-page interactive report covering booking volume and status, vehicle-level performance, cancellation behavior, customerordriver ratings, and a revenueorKPI summary.
+
 ![Overall Page](image/HOME.png)
 
-##2. Page-by-Page Breakdown
+
 
 ### Overall
 ![Overall Page](image/OVERALL.png)
